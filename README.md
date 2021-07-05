@@ -1,1 +1,2 @@
 # Portfolio-Project
+Hello everyone! I am Praveen and this is my SQL Data Exploration of COVID-19 Portfolio. I collected the info dataset regarding COVID in all countries as a CSV file from https://ourworldindata.org/covid-deaths and converted into Excel worksheet. I used Microsoft SQL Server Management Studio-19 and created databases with the excel sheets and started to code. I've used views ,CTE(Common Table Expression) and Temp Tables where required  
